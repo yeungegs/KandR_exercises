@@ -21,3 +21,10 @@
 |0|1|1|
 |1|0|1|
 |1|1|0|
+
+
+# Bitwise Ones Complement Truth Table
+|b1|~b1|
+| :---: | :---: |
+|0|1|
+|1|0|
